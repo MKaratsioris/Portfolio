@@ -36,6 +36,9 @@ main .projects-section .projects-cards .projects-card {
 main .projects-section .projects-cards .projects-card p {
     margin-top: 2rem;
 }
+main .projects-section .projects-cards .projects-card #mate {
+    font-size: 2.5rem;
+}
 main .projects-section .projects-cards .projects-card .icon {
     background-color: #0081EB;
     width: 70px;

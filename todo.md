@@ -9,12 +9,12 @@
 * [x] Footer
 
 ## Extra
-* [ ] Write text in About section
+* [x] Write text in About section
 * [ ] Change SVG in Footer
 * [ ] Add SVG in Header
-* [ ] Centralize img in breaking point in About
-* [ ] Refine responsiveness
-* [ ] Decide and apply colors
+* [x] Centralize img in breaking point in About
+* [x] Refine responsiveness
+* [x] Decide and apply colors
 * [ ] Dark/Light mode toggle button
 
 

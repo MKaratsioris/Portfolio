@@ -1,9 +1,10 @@
 main .contact .contact-section {
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 10rem 0;
 }
 main .contact .contact-section .contact-title {
     font-size: 4rem;
@@ -49,7 +50,9 @@ main .contact .contact-section textarea {
 }
 @media (max-width:480px) {
     main .contact .contact-section {
-        margin: 10rem 0;
+        min-height: auto;
+        margin: 0;
+        padding: 8rem 0 6rem;
     }
     main .contact .contact-section .contact-title {
         font-size: 2.5rem;
